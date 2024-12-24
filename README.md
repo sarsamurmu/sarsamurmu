@@ -1,5 +1,4 @@
-### Hi there 👋
-I am Sarsa. I do programming sometimes when I am not busy. Check out my repositories for more!
+### Hi there 👋, I am Sarsa.
+I do programming sometimes when I am free. I usually work with frontend technologies but I am also interested in Android Development.
 
-- 📫 How to reach me: [Twitter DM](https://twitter.com/messages/compose?recipient_id=1072434646523240449),
-[Telegram](https://t.me/sarsamurmu)
+Want to start a new project with me? Feel free to reach me out via email or [Telegram](https://t.me/sarsamurmu).
